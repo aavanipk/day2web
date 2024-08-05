@@ -1,0 +1,30 @@
+button{
+    background-color: beige;
+    color:blueviolet
+}
+#para1{
+    color:brown
+}
+#para2{
+    color:aqua
+}
+
+.content{
+    color:blue;
+    background-color: blanchedalmond;
+}
+
+div{
+    width:200px;
+    height: 300px;
+    background-color: aquamarine;
+    margin-left: 20px;
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-top: 50px;
+    border:10px solid;
+    border-color:red;
+}
+.ab{
+    color:aliceblue
+}
